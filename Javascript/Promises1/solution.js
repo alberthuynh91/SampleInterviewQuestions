@@ -21,6 +21,7 @@ myApiCall('password').then((data) => {
 
 
 // Here are some good resources if you need to brush up on Promises
-// https://danlevy.net/javascript-promises-quiz/
 // https://danlevy.net/visualizing-promises/
+// https://danlevy.net/promise-gotchas/
+// https://danlevy.net/javascript-promises-quiz/
 // https://exploringjs.com/es6/ch_promises.html
