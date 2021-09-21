@@ -1,3 +1,8 @@
+// See https://www.youtube.com/watch?v=4GpwM8FmVgQ for in depth video solution
+// Additional resources
+// https://exploringjs.com/deep-js/ch_implementing-promises.html
+// https://www.promisejs.org/implementing/
+
 const STATE = {
   PENDING: 'PENDING',
   FULFILLED: 'FULFILLED',
