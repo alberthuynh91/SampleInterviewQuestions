@@ -1,3 +1,5 @@
 // Implement a clone of the native Javascript Promise class called MyPromise
-// 1) Be able to implement the .then method
-// 2) Be able to chain the .then method
+// The class should contain a .then method
+// The class should contain a .catch method
+// The class should contain a .finally method
+// MyPromise should be able to chain .then 
