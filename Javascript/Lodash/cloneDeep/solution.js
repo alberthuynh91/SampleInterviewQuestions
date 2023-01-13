@@ -4,6 +4,7 @@
 // Some other ways to clone an object involve using JSON.parse(JSON.stringify(obj)) but this has drawbacks
   // See here https://stackoverflow.com/questions/4459928/how-to-deep-clone-in-javascript
 // Don't forget that objects can also contain functions which must also be cloned
+// This function should also be able to handle arrays and other primitive values
 
 const cloneDeep = (obj) => {
     const copiedObj = Array.isArray(obj) ? [] : {}
